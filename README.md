@@ -1,2 +1,2 @@
 # java-unit-tests
-Practicum exerccises
+Practicum exercises
